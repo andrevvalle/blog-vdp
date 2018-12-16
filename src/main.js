@@ -1,4 +1,6 @@
 import Vue from 'vue'
+import './plugins/vuetify'
+import './plugins/infinite-scroll'
 import App from './App.vue'
 
 Vue.config.productionTip = false
